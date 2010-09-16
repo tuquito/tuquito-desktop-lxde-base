@@ -1,3 +1,9 @@
+tuquito-desktop-lxde-base (4.1-2) maverick; urgency=low
+
+  * tuquito-minimal added
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 16 Sep 2010 15:30:22 -0300
+
 tuquito-desktop-lxde-base (4.1-1) maverick; urgency=low
 
   * Version inicial
