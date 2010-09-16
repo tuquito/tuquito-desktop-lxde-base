@@ -1,0 +1,16 @@
+Source: tuquito-desktop-lxde-base
+Section: metapackages
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+
+Package: tuquito-desktop-lxde-base
+Architecture: all
+Depends:galculator, lxde-core (>= 0.5.0-3ubuntu3), lxtask, lxappearance (>= 0.4.0), lxinput (>= 0.1.1), lxsession-edit, lxshortcut, gpicview (>= 0.1.9), lxterminal, leafpad, xarchiver, lxrandr, obconf, lxde-icon-theme, lxdm, menu-xdg, xserver-xorg, policykit-1-gnome, chromium-browser, chromium-browser-inspector, chromium-browser-l10n, chromium-codecs-ffmpeg-extra, chromium-codecs-ffmpeg-nonfree, aptito, guake, synaptic, tuquito-software-manager, trss, tuquito-bienvenida, tuquito-control-center, tuquito-control-parental, tuquito-update, tuquito-upgrade-manager, tuquito-wia, xchat, hardinfo, epdfview, pidgin, pidgin-facebookchat, language-selector, gnome-bluetooth, jockey-gtk, system-config-printer-gnome, xfburn, gnome-alsamixer, gnome-mplayer
+Replace: tuquito-desktop-base, lxde
+Conflict: tuquito-desktop-base, lxde
+Description: Escritorio de Tuquito LXDE Base
+ Instala todas las aplicaciones de Tuquito para la edición Base
+ * Tuquito Team! - 2010
+
