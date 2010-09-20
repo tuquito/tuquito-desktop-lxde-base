@@ -1,3 +1,9 @@
+tuquito-desktop-lxde-base (4.1-5) maverick; urgency=low
+
+  * new dependencies
+
+ -- Mario Colque <mario@tuquito.org.ar>  Mon, 20 Sep 2010 17:48:38 -0300
+
 tuquito-desktop-lxde-base (4.1-4) maverick; urgency=low
 
   * new depends
