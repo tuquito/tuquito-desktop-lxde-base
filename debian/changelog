@@ -1,3 +1,9 @@
+tuquito-desktop-lxde-base (4.1-8) maverick; urgency=low
+
+  * tuquito-system added
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 24 Sep 2010 00:27:46 -0300
+
 tuquito-desktop-lxde-base (4.1-7) maverick; urgency=low
 
   * sox added to dependencies
